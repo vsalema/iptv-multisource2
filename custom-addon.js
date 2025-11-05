@@ -1,7 +1,7 @@
 (function(){
   // Configuration initiale: à éditer par l'utilisateur
   window.CUSTOM_LIST = window.CUSTOM_LIST || [
-    { title: "Mon Portail",  logo: "https://via.placeholder.com/64x64?text=P", type: "overlay", url: "https://example.org" },
+    { title: "CMTV",  logo: "https://upload.wikimedia.org/wikipedia/commons/2/2e/CMTV.jpg", type: "overlay", url: "//popcdn.day/cdn.php?stream=CMTVPT" },
     { title: "Flux Démo",    logo: "https://via.placeholder.com/64x64?text=HLS", type: "media",   url: "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8" }
   ];
 
